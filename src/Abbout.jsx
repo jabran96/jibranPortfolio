@@ -1,5 +1,4 @@
 import React from 'react';
-import Resume from './Resume';
 import { NavLink} from "react-router-dom";
 import WhatsAppIcon from '@material-ui/icons/WhatsApp';
 import FacebookIcon from '@material-ui/icons/Facebook';
